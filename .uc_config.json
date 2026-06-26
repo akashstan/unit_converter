@@ -1,0 +1,10 @@
+{
+  "anthropic_api_key": "",
+  "mysql": {
+    "host": "localhost",
+    "user": "root",
+    "password": "Akash@2006#",
+    "database": "unit_converter_db"
+  },
+  "mysql_failed": false
+}
